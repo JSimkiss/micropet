@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="]Cs9$gJX;#xp8X;J-]K_">Happy</variable><variable id="GDyOp{2?Z/_OK%qRr!O=">Bored</variable><variable id="ihASu4:b%lN#}BR|GC)R">Angry</variable><variable id="4eW-V_t;!Ov,^TptsVSY">Sad</variable><variable id="E_{2pLTg]WCsmOXIh-.M">Dead</variable><variable id="2WD|NQ1#|,.a_/KVzVSy">Love</variable></variables><block type="device_forever" id="tSM]2]Oez4?O?9oR36K#" x="242" y="-76"/><block type="variables_set" id="r:|)=Z3,=5lIkgd$=PgK" disabled="true" x="741" y="-49"><field name="VAR" id="ihASu4:b%lN#}BR|GC)R">Angry</field><value name="VALUE"><shadow type="math_number" id="[o+4+vdCFkY`Nrr!cYyW" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="variables_set" id="P.OLpc`UhYYE]~b6E}2-" disabled="true" x="0" y="0"><field name="VAR" id="2WD|NQ1#|,.a_/KVzVSy">Love</field><value name="VALUE"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_build_image" id="8xoL{Tu3`d%^_]7`%?q8" disabled="true"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></value></block><block type="device_build_image" id="U[j|]vgdkrI}zA/GgR49" disabled="true" x="365" y="41"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block><block type="device_build_image" id="V,}rL6fmJsnNYX(@92S?" disabled="true" x="721" y="38"><field name="LEDS">`
+        . # # # . 
+        # . # . # 
+        # . # . # 
+        # # # # # 
+        # . # . #
+        `</field></block><block type="device_build_image" id="^H1:5[f4{t;(%R%h84l}" disabled="true" x="1083" y="46"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_build_image" id="9nys6u}(2O*Ekrx$.?%M" disabled="true" x="739" y="329"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block><block type="device_build_image" id="qM977E9A}{Lj(^])e%IA" disabled="true" x="1095" y="318"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . # . # .
+        `</field></block><block type="variables_set" id=";#S8~5X|+uVBx1cral/h" disabled="true" x="86" y="396"><field name="VAR" id="4eW-V_t;!Ov,^TptsVSY">Sad</field><value name="VALUE"><shadow type="math_number" id="jutsJ7s(9|oL6aLDOiW:" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="variables_set" id="pYgOkmwjw^IsjMU7rm`@" disabled="true" x="381" y="386"><field name="VAR" id="]Cs9$gJX;#xp8X;J-]K_">Happy</field><value name="VALUE"><shadow type="math_number" id="}GE)D.7e9E|c[E3[Y`oU" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="variables_set" id="3]d?F]Ty+KjddYgb!+Qj" disabled="true" x="77" y="539"><field name="VAR" id="E_{2pLTg]WCsmOXIh-.M">Dead</field><value name="VALUE"><shadow type="math_number" id="S`{`Lx.(gNuZ[[)87QU7" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="variables_set" id="`~RMe_[sN|j822g=ODkT" disabled="true" x="81" y="690"><field name="VAR" id="GDyOp{2?Z/_OK%qRr!O=">Bored</field><value name="VALUE"><shadow type="math_number" id="VN2/JWmfpNk#v4HvZS%U" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="pxt-on-start" id="c7{K_/K3|@C]YFE8x1y`" x="769" y="670"/><block type="variables_set" id="U]X,,~T*9N,28m1DMEiH" disabled="true" x="1271" y="724"><field name="VAR" id="2WD|NQ1#|,.a_/KVzVSy">Love</field><value name="VALUE"><shadow type="math_number" id=";}*6V-40@.Od)1%IskzG" disabled="true"><field name="NUM">0</field></shadow></value></block></xml>
